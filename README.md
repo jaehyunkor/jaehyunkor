@@ -26,7 +26,7 @@ Undergraduate student of Incheon Nat'l Univ. Dept. of Info & Telecom Engineering
 
 <h2 align="left"><b><i>Website</i></b></h2>
 <div align="left">
-  <a href="https://www.velog.com/jaehyunkor"> 
+  <a href="https://velog.io/@jaehyunkor/posts"> 
     <img src="https://img.shields.io/badge/Velog-20C997?style=e&logo=velog&logoColor=white"/>&nbsp
   </a>
   <a href="https://fabulous-viscount-d7f.notion.site/2078c6a2e061479fbaff92827e75e5b3"> 
