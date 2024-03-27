@@ -66,7 +66,9 @@ Undergraduate student of Incheon Nat'l Univ. Dept. of Info & Telecom Engineering
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />&nbsp
 
-  <br>
+</div>
+
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaehyunkor&langs_count=8)](https://github.com/jaehyunkor/github-readme-stats)
 
