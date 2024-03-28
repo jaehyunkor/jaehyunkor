@@ -7,18 +7,16 @@
 <h2 align="left"><b>Welcome to my profile!</b></h2>
 <p align="left">
 I'm <b>Jaehyun Lee</b>. <br>
-Undergraduate student of Incheon Nat'l Univ.<br>
-Exchange student for two semesters at Fukuoka University.
 </p>
 <br>
 
 <h2 align="left"><b><i>Education</i></b></h2>
 <div align="left">
 <p>
-<i>2020 ~</i><br>
-Undergraduate Student in <b>Incheon National University</b><br><br>
-<i>Sep. 2024 ~ july. 2025</i><br>
-(Admitted) Exchange Student in <b>Fukuoka Univ</b>
+<b>Incheon National University</b><br>
+<span style="color: #7B7D7D;"><i>&nbsp&nbsp&nbsp&nbspMarch 2020 ~ Present</i></span><br><br>
+<b>Fukuoka University</b> (Exchange Student)<br>
+<span style="color: #7B7D7D;"><i>&nbsp&nbsp&nbsp&nbspSeptember 2024 ~ </i></span><br><br>
 </p>
 </div><br>
 
