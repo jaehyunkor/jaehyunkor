@@ -7,9 +7,20 @@
 <h2 align="left"><b>Welcome to my profile!</b></h2>
 <p align="left">
 I'm <b>Jaehyun Lee</b>. <br>
-Undergraduate student of Incheon Nat'l Univ. Dept. of Info & Telecom Engineering.
+Undergraduate student of Incheon Nat'l Univ.<br>
+Exchange student for two semesters at Fukuoka University.
 </p>
 <br>
+
+<h2 align="left"><b><i>Education</i></b></h2>
+<div align="left">
+<p>
+<i>2020 ~</i><br>
+Undergraduate Student in <b>Incheon National University</b><br><br>
+<i>Sep. 2024 ~ july. 2025</i><br>
+(Admitted) Exchange Student in <b>Fukuoka Univ</b>
+</p>
+</div><br>
 
 <h2 align="left"><b><i>Contact</i></b></h2>
 <div align="left">
